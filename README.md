@@ -87,3 +87,8 @@ Instead of using Docker Desktop you can use the command line
 ## Starting docker compose
 
 `docker compose up`
+
+# Rquirements .txt file (requirements.txt)
+
+Run this to install:
+`pip install -r requirements.txt`
