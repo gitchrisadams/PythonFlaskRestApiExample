@@ -81,3 +81,9 @@ Then click "Run"
 
 Instead of using Docker Desktop you can use the command line
 `docker run -p 5005:5000 rest-apis-flask-python`
+
+## Docker Compose
+
+## Starting docker compose
+
+`docker compose up`
