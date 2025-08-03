@@ -50,3 +50,11 @@ Where Store 2 is the name of store to create
 	"name": "lamp",
 	"price": 2
 }`
+
+## GET - Get a specific store
+
+http://localhost:5000/store/MyStore
+
+## GET - Get specific store items
+
+http://localhost:5000/store/MyStore/item
